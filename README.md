@@ -13,7 +13,7 @@ In this challenge you are going to be creating a database and API that could be 
     - Caught or not
     - Results should include a pagination option
   - Retrieve a list of pokemon types
-  - For all pertinent quires only the desired language should be returned
+  - Options for language support should be included, what this looks like is up to you.
 
 
 ## Suggested Technology
@@ -23,6 +23,7 @@ You are free to use any programming languages, frameworks and databases but here
   - API
     - Typescript
     - Python
+    - Kotlin
 
   - Database
     - SQL
@@ -31,5 +32,5 @@ You are free to use any programming languages, frameworks and databases but here
 
 ## Submission
 
-You may host your API online, but you must provide a README for a local setup. Please provide all necessary documentation to be able to setup/access and consume your API. And of course, please provide a link to your repo.
+Please provide all necessary documentation to be able to setup/access and consume your API. You optionally may host your API online. And of course, please provide a link to your repo.
 
