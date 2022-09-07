@@ -7,7 +7,7 @@ In this challenge you are going to be creating a database and API that could be 
   - Ability to mark weather a pokemon has been caught
     - You will also need the ability to unmark a pokemon in the case it is released or traded
   - Query a pokemon by id
-  - Filter all pokemon on
+  - Retrieve a list of Pokemon with the following filter options
     - Name
     - Type
     - Caught or not
