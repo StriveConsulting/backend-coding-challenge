@@ -2,7 +2,7 @@
 
 In this challenge you are going to be creating a database and API that could be used to design a pokedex.
 
-- Design and load a database with the pokemon from pokemon.json
+- Design and load a database with the pokemon from the provided pokemon.json file
 - Second create an API that provides the following functionality
   - Ability to mark weather a pokemon has been caught
     - You will also need the ability to unmark a pokemon in the case it is released or traded
